@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "advent-of-code-21", "advent
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-sonar-sweep", "01-sonar-sweep\01-sonar-sweep.csproj", "{A3FAED0A-F3A5-40EE-AB75-0C2706E24ACA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02-dive", "02-dive\02-dive.csproj", "{207F6CFF-AF38-424D-95D7-0D5260D7571E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{A3FAED0A-F3A5-40EE-AB75-0C2706E24ACA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A3FAED0A-F3A5-40EE-AB75-0C2706E24ACA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A3FAED0A-F3A5-40EE-AB75-0C2706E24ACA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{207F6CFF-AF38-424D-95D7-0D5260D7571E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{207F6CFF-AF38-424D-95D7-0D5260D7571E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{207F6CFF-AF38-424D-95D7-0D5260D7571E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{207F6CFF-AF38-424D-95D7-0D5260D7571E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,14 @@
+C:\Users\flixa\Documents\Programmering\advent-of-code\advent-of-code-21\advent-of-code-21\02-dive\bin\Debug\net6.0\02-dive.exe
+C:\Users\flixa\Documents\Programmering\advent-of-code\advent-of-code-21\advent-of-code-21\02-dive\bin\Debug\net6.0\02-dive.deps.json
+C:\Users\flixa\Documents\Programmering\advent-of-code\advent-of-code-21\advent-of-code-21\02-dive\bin\Debug\net6.0\02-dive.runtimeconfig.json
+C:\Users\flixa\Documents\Programmering\advent-of-code\advent-of-code-21\advent-of-code-21\02-dive\bin\Debug\net6.0\02-dive.dll
+C:\Users\flixa\Documents\Programmering\advent-of-code\advent-of-code-21\advent-of-code-21\02-dive\bin\Debug\net6.0\ref\02-dive.dll
+C:\Users\flixa\Documents\Programmering\advent-of-code\advent-of-code-21\advent-of-code-21\02-dive\bin\Debug\net6.0\02-dive.pdb
+C:\Users\flixa\Documents\Programmering\advent-of-code\advent-of-code-21\advent-of-code-21\02-dive\obj\Debug\net6.0\02-dive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flixa\Documents\Programmering\advent-of-code\advent-of-code-21\advent-of-code-21\02-dive\obj\Debug\net6.0\02-dive.AssemblyInfoInputs.cache
+C:\Users\flixa\Documents\Programmering\advent-of-code\advent-of-code-21\advent-of-code-21\02-dive\obj\Debug\net6.0\02-dive.AssemblyInfo.cs
+C:\Users\flixa\Documents\Programmering\advent-of-code\advent-of-code-21\advent-of-code-21\02-dive\obj\Debug\net6.0\02-dive.csproj.CoreCompileInputs.cache
+C:\Users\flixa\Documents\Programmering\advent-of-code\advent-of-code-21\advent-of-code-21\02-dive\obj\Debug\net6.0\02-dive.dll
+C:\Users\flixa\Documents\Programmering\advent-of-code\advent-of-code-21\advent-of-code-21\02-dive\obj\Debug\net6.0\ref\02-dive.dll
+C:\Users\flixa\Documents\Programmering\advent-of-code\advent-of-code-21\advent-of-code-21\02-dive\obj\Debug\net6.0\02-dive.pdb
+C:\Users\flixa\Documents\Programmering\advent-of-code\advent-of-code-21\advent-of-code-21\02-dive\obj\Debug\net6.0\02-dive.genruntimeconfig.cache
