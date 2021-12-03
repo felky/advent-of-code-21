@@ -1,0 +1,15 @@
+C:\Users\flixa\Documents\Programmering\advent-of-code\advent-of-code-21\advent-of-code-21\01-sonar-sweep\bin\Debug\net6.0\01-sonar-sweep.exe
+C:\Users\flixa\Documents\Programmering\advent-of-code\advent-of-code-21\advent-of-code-21\01-sonar-sweep\bin\Debug\net6.0\01-sonar-sweep.deps.json
+C:\Users\flixa\Documents\Programmering\advent-of-code\advent-of-code-21\advent-of-code-21\01-sonar-sweep\bin\Debug\net6.0\01-sonar-sweep.runtimeconfig.json
+C:\Users\flixa\Documents\Programmering\advent-of-code\advent-of-code-21\advent-of-code-21\01-sonar-sweep\bin\Debug\net6.0\01-sonar-sweep.dll
+C:\Users\flixa\Documents\Programmering\advent-of-code\advent-of-code-21\advent-of-code-21\01-sonar-sweep\bin\Debug\net6.0\ref\01-sonar-sweep.dll
+C:\Users\flixa\Documents\Programmering\advent-of-code\advent-of-code-21\advent-of-code-21\01-sonar-sweep\bin\Debug\net6.0\01-sonar-sweep.pdb
+C:\Users\flixa\Documents\Programmering\advent-of-code\advent-of-code-21\advent-of-code-21\01-sonar-sweep\obj\Debug\net6.0\01-sonar-sweep.csproj.AssemblyReference.cache
+C:\Users\flixa\Documents\Programmering\advent-of-code\advent-of-code-21\advent-of-code-21\01-sonar-sweep\obj\Debug\net6.0\01-sonar-sweep.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flixa\Documents\Programmering\advent-of-code\advent-of-code-21\advent-of-code-21\01-sonar-sweep\obj\Debug\net6.0\01-sonar-sweep.AssemblyInfoInputs.cache
+C:\Users\flixa\Documents\Programmering\advent-of-code\advent-of-code-21\advent-of-code-21\01-sonar-sweep\obj\Debug\net6.0\01-sonar-sweep.AssemblyInfo.cs
+C:\Users\flixa\Documents\Programmering\advent-of-code\advent-of-code-21\advent-of-code-21\01-sonar-sweep\obj\Debug\net6.0\01-sonar-sweep.csproj.CoreCompileInputs.cache
+C:\Users\flixa\Documents\Programmering\advent-of-code\advent-of-code-21\advent-of-code-21\01-sonar-sweep\obj\Debug\net6.0\01-sonar-sweep.dll
+C:\Users\flixa\Documents\Programmering\advent-of-code\advent-of-code-21\advent-of-code-21\01-sonar-sweep\obj\Debug\net6.0\ref\01-sonar-sweep.dll
+C:\Users\flixa\Documents\Programmering\advent-of-code\advent-of-code-21\advent-of-code-21\01-sonar-sweep\obj\Debug\net6.0\01-sonar-sweep.pdb
+C:\Users\flixa\Documents\Programmering\advent-of-code\advent-of-code-21\advent-of-code-21\01-sonar-sweep\obj\Debug\net6.0\01-sonar-sweep.genruntimeconfig.cache

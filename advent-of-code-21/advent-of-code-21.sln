@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "advent-of-code-21", "advent-of-code-21\advent-of-code-21.csproj", "{865B6409-CF08-4F3D-BBCF-3C452A3236C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01-sonar-sweep", "01-sonar-sweep\01-sonar-sweep.csproj", "{A3FAED0A-F3A5-40EE-AB75-0C2706E24ACA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{865B6409-CF08-4F3D-BBCF-3C452A3236C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{865B6409-CF08-4F3D-BBCF-3C452A3236C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{865B6409-CF08-4F3D-BBCF-3C452A3236C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{865B6409-CF08-4F3D-BBCF-3C452A3236C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3FAED0A-F3A5-40EE-AB75-0C2706E24ACA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3FAED0A-F3A5-40EE-AB75-0C2706E24ACA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3FAED0A-F3A5-40EE-AB75-0C2706E24ACA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3FAED0A-F3A5-40EE-AB75-0C2706E24ACA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A7DF8BBC-B3C8-4D57-AD34-CEB2274D4072}
+	EndGlobalSection
+EndGlobal

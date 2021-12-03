@@ -1,0 +1,15 @@
+C:\Users\flixa\Documents\Programmering\advent-of-code\advent-of-code-21\advent-of-code-21\advent-of-code-21\bin\Debug\net6.0\advent-of-code-21.exe
+C:\Users\flixa\Documents\Programmering\advent-of-code\advent-of-code-21\advent-of-code-21\advent-of-code-21\bin\Debug\net6.0\advent-of-code-21.deps.json
+C:\Users\flixa\Documents\Programmering\advent-of-code\advent-of-code-21\advent-of-code-21\advent-of-code-21\bin\Debug\net6.0\advent-of-code-21.runtimeconfig.json
+C:\Users\flixa\Documents\Programmering\advent-of-code\advent-of-code-21\advent-of-code-21\advent-of-code-21\bin\Debug\net6.0\advent-of-code-21.dll
+C:\Users\flixa\Documents\Programmering\advent-of-code\advent-of-code-21\advent-of-code-21\advent-of-code-21\bin\Debug\net6.0\ref\advent-of-code-21.dll
+C:\Users\flixa\Documents\Programmering\advent-of-code\advent-of-code-21\advent-of-code-21\advent-of-code-21\bin\Debug\net6.0\advent-of-code-21.pdb
+C:\Users\flixa\Documents\Programmering\advent-of-code\advent-of-code-21\advent-of-code-21\advent-of-code-21\obj\Debug\net6.0\advent-of-code-21.csproj.AssemblyReference.cache
+C:\Users\flixa\Documents\Programmering\advent-of-code\advent-of-code-21\advent-of-code-21\advent-of-code-21\obj\Debug\net6.0\advent-of-code-21.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flixa\Documents\Programmering\advent-of-code\advent-of-code-21\advent-of-code-21\advent-of-code-21\obj\Debug\net6.0\advent-of-code-21.AssemblyInfoInputs.cache
+C:\Users\flixa\Documents\Programmering\advent-of-code\advent-of-code-21\advent-of-code-21\advent-of-code-21\obj\Debug\net6.0\advent-of-code-21.AssemblyInfo.cs
+C:\Users\flixa\Documents\Programmering\advent-of-code\advent-of-code-21\advent-of-code-21\advent-of-code-21\obj\Debug\net6.0\advent-of-code-21.csproj.CoreCompileInputs.cache
+C:\Users\flixa\Documents\Programmering\advent-of-code\advent-of-code-21\advent-of-code-21\advent-of-code-21\obj\Debug\net6.0\advent-of-code-21.dll
+C:\Users\flixa\Documents\Programmering\advent-of-code\advent-of-code-21\advent-of-code-21\advent-of-code-21\obj\Debug\net6.0\ref\advent-of-code-21.dll
+C:\Users\flixa\Documents\Programmering\advent-of-code\advent-of-code-21\advent-of-code-21\advent-of-code-21\obj\Debug\net6.0\advent-of-code-21.pdb
+C:\Users\flixa\Documents\Programmering\advent-of-code\advent-of-code-21\advent-of-code-21\advent-of-code-21\obj\Debug\net6.0\advent-of-code-21.genruntimeconfig.cache
