@@ -1,2 +1,3 @@
-# advent-of-code-21
-My Advent of Code solutions. 
+# Felky's advent of code '21
+
+My advent of code solutions :-) 
