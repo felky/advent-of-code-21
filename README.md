@@ -1,3 +1,4 @@
 # Felky's advent of code '21
 
-My advent of code solutions :-) 
+doin this in .net 6, c# 
+not optimized at all, just doing it for fun :) 
